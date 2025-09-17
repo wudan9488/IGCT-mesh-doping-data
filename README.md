@@ -3,7 +3,7 @@ Mesh and doping profile data for semiconductor device simulations (VTU format)
 
 ## About this dataset
 This repository provides the **mesh data and doping profiles** used in the paper:
-**Dan Wu\*, Xiyu Peng, Chijie Zhuang, Bo Lin, Qingyuan Shi, Li Li, Ruilang Ji, Xiaoguang Wei, Rong Zeng**,  
+**Dan Wu Xiyu Peng, Chijie Zhuang\*,, Bo Lin, Qingyuan Shi, Li Li, Ruilang Ji, Xiaoguang Wei, Rong Zeng**,  
 *Adaptive Time Step Control for Semiconductor Simulations*, submitted to **IEEE Transactions on Magnetics** (conference-related manuscript for COMPUMAG 2025).
 
 
